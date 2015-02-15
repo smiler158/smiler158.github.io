@@ -10,7 +10,7 @@ paginate: 8
 paginate_path: "page:num"
 
 # presonal config
-domain: www.smiler158.com
+domain: smiler158.github.com
 title: ooxiaofangoo's Blog
 description: JAVA,JS,chrome extention, Linux, reading...
 author: xiaofang
