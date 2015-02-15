@@ -7,4 +7,4 @@ title: "关于：About"
 
 ####链接
 GitHub: <https://github.com/{{ site.github }}>  
-博客园:http://www.cnblogs.com/smiler158
+博客园: <http://www.cnblogs.com/smiler158>
