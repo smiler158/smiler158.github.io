@@ -1,0 +1,23 @@
+markdown: redcarpet
+permalink: /:categories/:title.html
+url: 
+lsi: false
+pygments: true
+safe: true
+auto: false 
+
+paginate: 8
+paginate_path: "page:num"
+
+# presonal config
+domain: www.smiler158.com
+title: ooxiaofangoo's Blog
+description: JAVA,JS,chrome extention, Linux, reading...
+author: xiaofang
+email: smiler#163.com
+github: smiler158
+
+config:
+  js_dir:
+  img_dir:
+  css_dir:
