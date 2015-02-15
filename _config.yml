@@ -12,7 +12,7 @@ paginate_path: "page:num"
 # presonal config
 domain: smiler158.github.com
 title: 龚小芳的博客
-description: JAVA后台,JS前端, Linux, 推荐系统，IOS...
+description: JAVA后台,Linux,推荐系统,持续集成，云端虚拟机，js前端，IOS...
 author: xiaofang
 email: smiler158#163.com
 github: smiler158
