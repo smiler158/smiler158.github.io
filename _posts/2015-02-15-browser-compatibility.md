@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "android"
+category: "browserweb"
 title: "浏览器 兼容性问题总结"
 tags: ["浏览器兼容性"]
 ---

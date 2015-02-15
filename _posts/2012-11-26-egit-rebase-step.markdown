@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "android"
+category: "java"
 title:  "eclipse下Egit rebase 步骤"
 tags: [eclipse,Egit]
 ---

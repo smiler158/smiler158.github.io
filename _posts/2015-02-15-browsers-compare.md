@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "android"
+category: "browserweb"
 title: "各种浏览器内核介绍"
 tags: ["浏览器内核"]
 ---

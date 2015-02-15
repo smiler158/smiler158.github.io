@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "android"
+category: "java"
 title:  "给移动应用开发者的建议"
 tags: [Android]
 ---

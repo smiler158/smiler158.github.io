@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "android"
+category: "java"
 title:  "wait和notify/notifyAll"
 tags: Java 线程
 ---
