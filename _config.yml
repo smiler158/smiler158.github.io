@@ -11,10 +11,10 @@ paginate_path: "page:num"
 
 # presonal config
 domain: smiler158.github.com
-title: ooxiaofangoo's Blog
-description: JAVA,JS,chrome extention, Linux, reading...
+title: 龚小芳的博客
+description: JAVA后台,JS前端, Linux, 推荐系统，IOS...
 author: xiaofang
-email: smiler#163.com
+email: smiler158#163.com
 github: smiler158
 
 config:
