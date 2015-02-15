@@ -6,7 +6,7 @@ tags: ["redis"]
 ---
 
 
-r：jedis-2.1.0.jar和commons-pool-1.5.4.jar
+所需要的jar包：jedis-2.1.0.jar和commons-pool-1.5.4.jar
 
 Jedis操作步骤如下：
 1->获取Jedis实例需要从JedisPool中获取；
