@@ -15,7 +15,7 @@ Jedis操作步骤如下：
 
 代码如下：
 
-复制代码
+<pre><code> 
 package com.ljq.utils;
 
 import redis.clients.jedis.Jedis;
@@ -94,7 +94,7 @@ public class RedisAPI {
         return value;
     }
 }
-复制代码
+</code></pre>
 代码说明：
 a、获取jedis实例时，实际上可能有两类错误。
 一类是pool.getReource()，得不到可用的jedis实例；
